@@ -252,7 +252,7 @@ Tempo de execucao: 0.000221800, Linha no dataset: 65208
 Tempo de execucao: 0.000223500, Linha no dataset: 65472
 Tempo de execucao: 0.000224800, Linha no dataset: 65736
 
- O tempo de execucao da primeira parte: 0.024520200s
+ O tempo de execução na leitura da primeira parte do arquivo: 0.024520200s
  Tempo médio: 0.000098081s
 
             Pesquisas 250 - 500
@@ -508,7 +508,7 @@ Tempo de execução: 0.000677900, Linha no dataset: 131208
 Tempo de execução: 0.000664200, Linha no dataset: 131472
 Tempo de execução: 0.002209500, Linha no dataset: 131736
 
- O tempo de execucao da primeira parte: 0.151284900s
+ O tempo de execução na leitura da segunda parte do arquivo: 0.151284900s
  Tempo médio: 0.000302570s
 
             Pesquisas 500 - 750
