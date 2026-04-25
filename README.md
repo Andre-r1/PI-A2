@@ -1,8 +1,8 @@
 ## Integrantes
 
 - Nome:Marcos Vinícius de Almeida Mendes -- 2412130059
-- Nome:André Souza Mattos ------------------2422130024 
-- Nome:Luiz Felipe Borges Pinho ----------- 2412130056
+- Nome:André Souza Mattos --------------------2422130024 
+- Nome:Luiz Felipe Borges Pinho --------------- 2412130056
 
 ## Resultados
 
