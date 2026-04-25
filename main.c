@@ -27,13 +27,13 @@ int main(){
         iniciar_timer(); // inicia o timer 
         achou = Busca_sequencial(produtos, *(ids+i), 200004);
         x = finalizar_timer(); //finaliza o timer
-        fprintf(resultado, "Tempo de execucao: %.9f, Linha no dataset: %i\n", x, achou);
+        fprintf(resultado, "Tempo de execução: %.9f, Linha no dataset: %i\n", x, achou);
         tempo_atual += x;
         tempo_total += x;
     }
    
     fprintf(resultado, "\n");
-    fprintf(resultado, " O tempo de execucao da primeira parte: %.9fs\n Tempo médio: %.9fs\n", tempo_atual, tempo_atual/250);
+    fprintf(resultado, " O tempo de execução na leitura da primeira parte do arquivo: %.9fs\n Tempo médio: %.9fs\n", tempo_atual, tempo_atual/250);
     tempo_atual = 0;
 
     // Pesquisas 250 - 500
@@ -49,7 +49,7 @@ int main(){
     }
    
     fprintf(resultado, "\n");
-    fprintf(resultado, " O tempo de execucao da primeira parte: %.9fs\n Tempo médio: %.9fs\n", tempo_atual, tempo_atual/500);
+    fprintf(resultado, " O tempo de execução na leitura da segunda parte do arquivo: %.9fs\n Tempo médio: %.9fs\n", tempo_atual, tempo_atual/500);
     tempo_atual = 0;
 
     // Pesquisas 500 - 750
