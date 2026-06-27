@@ -1,0 +1,2026 @@
+Tempo utilizado para carregar em vetor: 0.4560171
+
+Tempo calculado para carregar a tabela Hash: 0.5340736
+
+
+ As primeiras 250 pesquisas
+
+Tempo utilizado: 0.0000011
+
+Tempo utilizado: 0.0000011
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000009
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000010
+
+Tempo utilizado: 0.0000009
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000012
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000010
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000011
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000010
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000013
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000012
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000010
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000010
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000010
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+
+ O tempo utilizado nas primeiras 250 pesquisa foi de: 0.0001537s, Tempo médio: 0.0000006s
+
+ Segunda pesquisa 250 - 500
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000009
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+
+ O tempo utilizado na segunda pesquisa foi de: 0.0001326s, Tempo médio: 0.0000005s
+
+ Terceira pesquisa 500 - 750
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000011
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+
+ O tempo utilizado na terceira persquisa foi de: 0.0001353s, Tempo médio: 0.0000005s
+
+ Quarta pesquisa - Inexistentes
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000002
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000002
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000001
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000002
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000009
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000002
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000010
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000007
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000006
+
+Tempo utilizado: 0.0000003
+
+Tempo utilizado: 0.0000008
+
+Tempo utilizado: 0.0000005
+
+Tempo utilizado: 0.0000004
+
+
+ O tempo utilizado na quarta pesquisa foi de: 0.0001207s, Tempo médio: 0.0000005s
+
+ O tempo total utilizado: 0.0005423s, Tempo médio total utilizado: 0.0000005s
