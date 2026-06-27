@@ -8,9 +8,6 @@
 
 int main(){
     
-    srand(42); // Garante que a "aleatoriedade" seja idêntica nas duas mains!
-
-    
     double tempo_total = 0, tempo_segmento = 0, y = 0; 
     int achou = 0; 
     
